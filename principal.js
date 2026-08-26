@@ -6,4 +6,4 @@ function trocarbanner() {
     document.querySelector("h2.mensagem").textContent = banners[indiceBanner]; 
 } 
 
-setInterval(trocarbanner, 2000);
+setInterval(trocarbanner, 1000);
